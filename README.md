@@ -9,3 +9,5 @@ The dashboard is designed for stakeholders—including business analysts, produc
 ⏱ Delivery Analytics: Analyze average delivery times, late deliveries, and SLA (Service Level Agreement) compliance.
 📍 Geographic Performance: Visualize sales and delivery metrics across various regions or pin codes.
 📈 Interactive Filtering: Slice and filter data by time, geography, and customer segments for deeper analysis.
+image=><img width="1270" height="814" alt="Screenshot 2025-08-04 013301" src="https://github.com/user-attachments/assets/1a29847a-41cc-4800-8536-b7856bda67bc" />
+
